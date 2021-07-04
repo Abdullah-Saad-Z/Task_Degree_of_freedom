@@ -1,1 +1,2 @@
 # Task_Degree_of_freedom
+Robot arm assembly by using CINEMA 4D. Initially, the base was installed on the program, then the waist001 was placed on the top of the base. After that, the first arm installed on the waist, then the seconed arm is fixed to the first arm. After that, a new arm has been added to the seconed arm. Then, another new arm added to the previous new arm. and finally, the Gripper fixed to the new arm.
